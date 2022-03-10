@@ -1,0 +1,49 @@
+{
+	"userId": 1,
+	"firstName": "Bárbara",
+	"lastName": "Silva",
+	"age": 16,
+	"books": [
+		{
+			"bookId": 1,
+			"name": "Livro A",
+			"releaseYear": 2020,
+			"numberPages": 111,
+			"UserBook": {
+				"book_id": 1,
+				"user_id": 1
+			}
+		},
+		{
+			"bookId": 3,
+			"name": "Livro C",
+			"releaseYear": 2018,
+			"numberPages": 333,
+			"UserBook": {
+				"book_id": 3,
+				"user_id": 1
+			}
+		}
+	]
+}
+
+{
+	"userId": 1,
+	"firstName": "Bárbara",
+	"lastName": "Silva",
+	"age": 16,
+	"books": [
+		{
+			"bookId": 1,
+			"name": "Livro A",
+			"releaseYear": 2020,
+			"numberPages": 111
+		},
+		{
+			"bookId": 3,
+			"name": "Livro C",
+			"releaseYear": 2018,
+			"numberPages": 333
+		}
+	]
+}
